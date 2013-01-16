@@ -1,0 +1,16 @@
+{
+  "name": "herokal-backend-test",
+  "version": "0.0.0",
+  "description": "Test Backend for Herokal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Cameron Bytheway <cameron@nujii.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-uuid": "~1.4.0",
+    "simple-db": "0.0.2"
+  }
+}
